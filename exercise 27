@@ -1,0 +1,2 @@
+h, m = input("Enter hour and minute: ").split()
+print(f"{int(h):02d}:{int(m):02d}"
