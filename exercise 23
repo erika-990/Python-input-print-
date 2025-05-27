@@ -1,0 +1,3 @@
+date = input("Date (DD.MM.YY): ")
+dd, mm, yy = date.split(".")
+print(f"{yy}-{mm}-{dd}")
