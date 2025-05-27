@@ -1,0 +1,2 @@
+var_name = input("Enter a variable name: ")
+print(f"Your variable is: {var_name}")
