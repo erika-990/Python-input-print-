@@ -1,0 +1,2 @@
+x = float(input("Enter a float: "))
+print("Result:", x * 2.5)
