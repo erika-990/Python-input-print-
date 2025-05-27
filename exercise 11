@@ -1,0 +1,2 @@
+year = int(input("Enter a year: "))
+print("New millennium" if year > 2000 else "")
