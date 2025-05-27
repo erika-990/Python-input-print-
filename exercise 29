@@ -1,0 +1,2 @@
+amount = float(input("Enter monetary amount: "))
+print(f"{amount:,.2f}")
