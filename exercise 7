@@ -1,0 +1,4 @@
+w1 = input("Word 1: ")
+w2 = input("Word 2: ")
+w3 = input("Word 3: ")
+print(w1, w2, w3)
