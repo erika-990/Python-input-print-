@@ -1,0 +1,3 @@
+height = float(input("Enter rectangle height: "))
+width = float(input("Enter rectangle width: "))
+print("Area:", height * width)
