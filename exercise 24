@@ -1,0 +1,3 @@
+data = input("Enter first,last,age: ")
+first, last, age = data.split(",")
+print(first); print(last); print
