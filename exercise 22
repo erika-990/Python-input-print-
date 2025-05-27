@@ -1,0 +1,5 @@
+g1 = float(input("Grade 1: "))
+g2 = float(input("Grade 2: "))
+g3 = float(input("Grade 3: "))
+avg = (g1 + g2 + g3) / 3
+print("Average:", avg)
