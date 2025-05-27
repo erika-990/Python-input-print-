@@ -1,0 +1,3 @@
+pct = input("Enter percentage (e.g., 25%): ")
+decimal = float(pct.strip("%")) / 100
+print("Decimal equivalent:", decimal)
